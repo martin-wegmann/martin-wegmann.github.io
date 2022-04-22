@@ -109,3 +109,13 @@ Besides these scientific foci, I am highly interested in graphic and communicati
 * [<span style="color:black">Auchmann, R., Arfeuille, F., **<span style="color:black">Wegmann, M.</span>**, Franke, J., Barriendos, M., Prohom, M., ... & Broennimann, S. (2013). Impact of volcanic stratospheric aerosols on diurnal temperature range in Europe over the past 200 years: Observations versus model simulations. Journal of Geophysical Research: Atmospheres, 118(16), 9064-9077.</span>](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/jgrd.50759)
 
 ***
+
+## <span style="color:aquamarine">Secured Funding</span>
+
+* [<span style="color:black">**2020 SNF SPARK Call**</span>](http://www.snf.ch/en/researchinFocus/newsroom/Pages/news-200911-spark-in-high-demand-again.aspx)
+    + WINTER: Winter Climate Prediction with Machine Learning
+ 
+<img src="spark_black.jpg" alt="drawing" align="centre" style="width: 400px;margin-left:80px"/>
+
+
+***
