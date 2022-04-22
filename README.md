@@ -1,5 +1,5 @@
-## <span style="color:aquamarine">Martin Wegmann</span>
-## Curriculum Vitae
+# <span style="color:aquamarine">Martin Wegmann</span>
+### Curriculum Vitae
 
 ***
 
