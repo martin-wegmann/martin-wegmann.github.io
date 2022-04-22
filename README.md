@@ -1,4 +1,5 @@
-# martin-wegmann.github.io
+## <span style="color:aquamarine">Martin Wegmann</span>
+## Curriculum Vitae
 
 ***
 
