@@ -1,6 +1,9 @@
 # <span style="color:aquamarine">Martin Wegmann</span>
 ### Curriculum Vitae
 
+<img src="imageB.jpg" alt="drawing" align="centre" style="width: 350px;"/>
+
+
 ***
 
 ## <span style="color:aquamarine">Proficiency & Research Interests</span>
